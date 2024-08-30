@@ -1,1 +1,1 @@
-# Workout-tracking-using-google-sheets
+Python project to track workouts in Google sheet
