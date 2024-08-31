@@ -8,13 +8,13 @@ date = today.strftime("%d/%m/%Y")
 time = today.strftime("%H:%M:%S")
 
 
-GENDER = "female"
-WEIGHT_KG = "65"
-HEIGHT_CM = "165"
-AGE = "35"
+GENDER = ""
+WEIGHT_KG = ""
+HEIGHT_CM = ""
+AGE = ""
 
-APP_ID = "171548f2"
-API_KEY = "285679641d41c1ab9b131cfa691fd831"
+APP_ID = "your ID"
+API_KEY = "your key"
 
 nutrional_enpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 sheet_endpoint = "https://api.sheety.co/18c68a80643d1af4c188152fbc30390b/workoutTracking/workouts"
