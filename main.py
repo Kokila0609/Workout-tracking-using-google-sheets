@@ -51,7 +51,7 @@ exercises = exercise_data['exercises']
 #     print(exercise['nf_calories'])
 
 sheet_headers = {
-    "Authorization": "Basic a29raWxhOlNhcmFueWFANg=="
+    "Authorization": "Basic "
 }
 for exercise in exercises:    
     workout_parameters = {
